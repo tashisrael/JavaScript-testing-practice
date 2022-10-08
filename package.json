@@ -1,0 +1,23 @@
+{
+  "name": "javascript-testing-practice",
+  "version": "1.0.0",
+  "description": "**This is a simple project for JavaScript testing**",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tashisrael/JavaScript-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tashisrael/JavaScript-testing-practice/issues"
+  },
+  "homepage": "https://github.com/tashisrael/JavaScript-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
